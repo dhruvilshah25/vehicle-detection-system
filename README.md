@@ -2,7 +2,7 @@
 
 This is a python program made using opencv to detect cars in a video
 
-[## OpenCV](https://docs.opencv.org/master/index.html)
+## OpenCV
 
 Go through [opencv](https://docs.opencv.org/master/index.html)
 
