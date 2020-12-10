@@ -1,6 +1,6 @@
 # car-detection-system
 
-This is a python program made using opencv to detect cars in a video
+This is a python program made using opencv to detect vehicles in a video
 
 ## OpenCV
 
